@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 In this internship, we were provided 8 Tasks.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/samruddhi0507/The-Spark-Foundation/blob/main/Task%20%20No%201%20%20Prediction%20using%20Supervised%20ML.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/mohitrandive/The-Spark-Foundation/blob/main/Task%201%20%20Prediction%20using%20Supervised%20Machine%20Learning.ipynb)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
