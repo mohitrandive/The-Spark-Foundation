@@ -27,7 +27,7 @@ _Please click on the images on right side to view my solution._
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/mohitrandive/The-Spark-Foundation/blob/main/Task%20No.%203%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/mohitrandive/The-Spark-Foundation/blob/main/Task%20No%203%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
 ### # Task-3 :Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
